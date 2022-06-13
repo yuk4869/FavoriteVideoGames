@@ -2,7 +2,7 @@
 あなたの好きなお寿司のネタを教えてください.</br>
 邪道ネタも大歓迎.</br>
 
-＃ My favorite sushi
+# My favorite sushi
 鮭　サーモン Chum</br>
 鯖　サバ Mackerel</br>
 鰯　イワシ Sardine</br>
