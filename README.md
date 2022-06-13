@@ -1,8 +1,18 @@
+# Tell me your favorite sushi
 あなたの好きなお寿司のネタを教えてください.</br>
 邪道ネタも大歓迎.</br>
-URLもどうぞ！<br>
 
-
+＃ My favorite sushi
+鮭　サーモン Chum</br>
+鯖　サバ Mackerel</br>
+鰯　イワシ Sardine</br>
+真鯛　マダイ Red sea bream</br>
+間八　カンパチ Greater amberjack</br>
+鮃　ヒラメ Flatfish</br>
+鯵　アジ Horse mackerel</br>
+縞鯵　シマアジ White trevally</br>
+鰈　カレイ Righteye Flounder</br>
+小鰭　コハダ Dotted gizzard shad</br>
 
 
 # Attracting Contributors
@@ -21,10 +31,3 @@ To complete the assignment, please do the following:
 2. Announce the new project and try to attract other members.
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
-
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
