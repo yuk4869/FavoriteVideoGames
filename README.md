@@ -2,11 +2,11 @@
 あなたの好きなお寿司のネタを教えてください.</br>
 邪道ネタも大歓迎.</br>
 
-# Write down your name and favorite sushi !
-Shota Ozaki, 穴子 アナゴ Conger eel</br>
-Ryusei Okawa, 鰤　ハマチ　Hamachi</br>
-Ippei Otake, かにかま　にぎり　Kanikama Nigiri</br>
-Takashi Ryuguji, 甘エビ Sweet shrimp</br>
+# Write down your favorite sushi !
+穴子 アナゴ Conger eel</br>
+鰤　ハマチ　Hamachi</br>
+かにかま　にぎり　Kanikama Nigiri</br>
+甘エビ Sweet shrimp</br>
 
 # （Example) My favorite sushi
-Ryuki Yoshida, 鮭　サーモン Chum</br>
+鮭　サーモン Chum</br>
