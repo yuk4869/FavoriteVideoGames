@@ -24,7 +24,8 @@ To complete the assignment, please do the following:
 
 - The Last of Us
 
-- Rogue Galaxy
+- Tayutama
 
+- Rogue Galaxy
 
 
