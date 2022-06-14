@@ -28,4 +28,6 @@ To complete the assignment, please do the following:
 
 - Rogue Galaxy
 
+- Modern Combat 5
+
 
