@@ -19,8 +19,13 @@ To complete the assignment, please do the following:
 一番好きなゲームを教えてください
 
 # List of game
+
+- BattleField 4
+
 - The Last of Us
 
-
-
 - Tayutama
+
+- Rogue Galaxy
+
+
