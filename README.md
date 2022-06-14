@@ -15,9 +15,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My Project(Favorite Movies). 
+Goal - I want contributors to help me list everyone's favorite movies. お気に入りの映画を教えてください！
+I love any kind of movies!
+So, any genre, Western movies, Japanese movies, your country's movie, anything is fine!!
+For example, my favorite movie is "The Truman Show".
 
 # List of Hobby
+1. 
+2. 
+3. 
+4.
+5.
+6.
+7.
+8.
+9.
+10.
