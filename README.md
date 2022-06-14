@@ -3,7 +3,7 @@
 邪道ネタも大歓迎.</br>
 
 # Write down your name and favorite sushi !
-
+Shota Ozaki, 穴子 アナゴ Conger eel
 
 # My favorite sushi
 鮭　サーモン Chum</br>
