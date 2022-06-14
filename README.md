@@ -16,10 +16,9 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project(Favorite Movies). 
-Goal - I want contributors to help me list everyone's favorite movies. お気に入りの映画を教えてください！
-I love any kind of movies!
-So, any genre, Western movies, Japanese movies, your country's movie, anything is fine!!
-For example, my favorite movie is "The Truman Show".
+Goal - I want contributors to help me list everyone's favorite movies. お気に入りの映画を教えてください！<br>
+I love any kind of movies! So, any genre, Western movies, Japanese movies, your country's movie, anything is fine!!　<br>
+For example, my favorite movie is **"The Truman Show"**.<br>
 
 # List of Hobby
 1. 
