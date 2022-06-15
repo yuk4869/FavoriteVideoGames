@@ -25,4 +25,5 @@ Everyone is welcome!
 2. Leon
 3. Top Gun
 4. 新世紀エヴァンゲリオン
-5. Kiki's Delivery Service
+5. AKIRA
+6. Kiki's Delivery Service
