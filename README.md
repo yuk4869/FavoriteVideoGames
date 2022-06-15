@@ -7,6 +7,7 @@
 鰤　ハマチ　Hamachi</br>
 かにかま　にぎり　Kanikama Nigiri</br>
 甘エビ Sweet shrimp</br>
+玉子　たまご Egg</br>
 
 # （Example) My favorite sushi
 鮭　サーモン Chum</br>
