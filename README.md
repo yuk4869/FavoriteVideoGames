@@ -25,3 +25,4 @@ Everyone is welcome!
 2. Leon
 3. Top Gun
 4. 新世紀エヴァンゲリオン
+5. AKIRA
