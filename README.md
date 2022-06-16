@@ -26,7 +26,7 @@ For example, my favorite movie is **"The Truman Show"**.<br>
 3. Forrest Gump
 4. Kiki's Delivery Service
 5. Predestination
-6.
+6. The Truman Show
 7.
 8.
 9.
