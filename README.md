@@ -12,3 +12,4 @@ Please let me know your favorite Kanji! more than one is okay!
 5. 暇
 6. 誠
 7. 麗
+8. 桜
