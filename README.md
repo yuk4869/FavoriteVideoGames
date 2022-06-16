@@ -8,3 +8,5 @@ Please let me know your favorite Kanji! more than one is okay!
 1. 冬
 2. 惰
 3. 瞭
+4. 肉
+
