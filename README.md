@@ -11,3 +11,4 @@ Please let me know your favorite Kanji! more than one is okay!
 4. 肉
 5. 暇
 6. 誠
+7. 麗
