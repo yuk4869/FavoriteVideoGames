@@ -6,4 +6,7 @@ Please let me know your favorite Kanji! more than one is okay!
 
 # Kanji list
 1. 冬
-2. 肉
+2. 惰
+3. 瞭
+4. 肉
+
