@@ -24,3 +24,4 @@ for example
 
 I'm looking forward to your effort!
 # List of Hobby
+- Discord
