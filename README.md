@@ -8,6 +8,7 @@ conflict対策として、リストの間に入れていただけると幸いで
 鰤　ハマチ　Hamachi</br>
 かにかま　にぎり　Kanikama Nigiri</br>
 甘エビ Sweet shrimp</br>
+鰤　ブリ　yellowtail</br>
 玉子　たまご Egg</br>
 鮪　マグロ　Tuna</br>
 
