@@ -21,7 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
-# What is your favolite　color？
+# What is your favolite color？
 Please write between the slashes. 
 
 /
