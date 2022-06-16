@@ -10,6 +10,7 @@ conflict対策として、リストの間に入れていただけると幸いで
 甘エビ Sweet shrimp</br>
 玉子　たまご Egg</br>
 鮪　マグロ　Tuna</br>
-# （Example) My favorite sushi
+
+# My favorite sushi（Example) 
 鮭　サーモン Chum</br>
 マグロ
