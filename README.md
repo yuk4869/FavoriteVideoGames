@@ -32,9 +32,10 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 
 # List of Hobby
 - Pokemon serie
-・クロノトリガー
-・Valorant
+- クロノトリガー
+- Valorant
 - Cave Story
 - もぎたてチンクル
 - Smash Bros.
 - UNDERTALE
+- Mario Cart
