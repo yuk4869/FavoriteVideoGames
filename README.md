@@ -35,6 +35,7 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 - クロノトリガー
 - Valorant
 - Cave Story
+- サルゲッチュ
 - もぎたてチンクル
 - Smash Bros.
 - UNDERTALE
