@@ -42,3 +42,6 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 - UNDERTALE
 - Mario Cart
 - あつ森
+- Arknights
+- Titan fall 2
+- Summon Night
