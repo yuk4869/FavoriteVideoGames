@@ -32,4 +32,10 @@ To complete the assignment, please do the following:
 
 - Valorant
 
+- LOL
 
+- Cave Story
+
+- MARIO CART
+
+- Ghost Of Tsushima
