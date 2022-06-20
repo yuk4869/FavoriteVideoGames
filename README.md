@@ -32,4 +32,8 @@ To complete the assignment, please do the following:
 
 - LOL
 
+- Cave Story
 
+- MARIO CART
+
+- Ghost Of Tsushima
