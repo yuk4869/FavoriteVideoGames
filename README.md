@@ -30,6 +30,8 @@ To complete the assignment, please do the following:
 
 - Modern Combat 5
 
+- LOL
+
 - Cave Story
 
 - MARIO CART
