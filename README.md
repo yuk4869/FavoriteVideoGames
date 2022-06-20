@@ -31,3 +31,14 @@ To complete the assignment, please do the following:
 - Modern Combat 5
 
 - VALORANT
+
+- Valorant
+
+- LOL
+
+- Cave Story
+
+- MARIO CART
+
+- Ghost Of Tsushima
+
