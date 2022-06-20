@@ -33,6 +33,7 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 # List of Hobby
 - Pokemon serie
 - クロノトリガー
+- Apex Legends
 - Valorant
 - Cave Story
 - サルゲッチュ
