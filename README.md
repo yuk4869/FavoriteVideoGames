@@ -30,6 +30,8 @@ To complete the assignment, please do the following:
 
 - Modern Combat 5
 
+- Ace Attorney[逆転裁判]
+
 - Metal Gear Solid PW
 
 - VALORANT
