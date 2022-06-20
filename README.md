@@ -32,4 +32,15 @@ To complete the assignment, please do the following:
 
 - Metal Gear Solid PW
 
+- VALORANT
+
+- Valorant
+
+- LOL
+
+- Cave Story
+
+- MARIO CART
+
+- Ghost Of Tsushima
 
