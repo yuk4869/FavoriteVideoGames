@@ -21,6 +21,8 @@ Tell me what music you like!
 
 # List of Hobby
 
+ - Brass Band
+
 - jpop
 
 
