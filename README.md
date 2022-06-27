@@ -21,6 +21,10 @@ Tell me what music you like!
 
 # List of Hobby
 
+- jpop
+
+
 - French electronic music
+
 - Vocaloid
 
