@@ -46,3 +46,4 @@ if you help my project, pls add your favorite video game into the List of Hobby 
 - Arknights
 - Titan fall 2
 - Summon Night
+- Apex
